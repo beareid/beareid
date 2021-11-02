@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently relearning C++.
 - 💞️ I’m looking to collaborate on React projects.
-- 📫 How to reach me at ronin.bea@gmail.com.
+- 📫 You can reach me at ronin.bea@gmail.com.
 
 <!---
 BeaRonin/BeaRonin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
