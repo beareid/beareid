@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BeaRonin.
+- 👋 Hi, I’m Bea Reid.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently relearning C++.
 - 💞️ I’m looking to collaborate on React projects.
