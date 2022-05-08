@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bea Reid.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on React projects.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 You can reach me at bearied.info@gmail.com.
 
 <!---
