@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bea Reid.
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 You can reach me at bearied.info@gmail.com.
